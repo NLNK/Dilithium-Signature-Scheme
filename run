@@ -1,0 +1,3 @@
+./keygen sk.key pk.key
+./sign sk.key test.txt sign.txt
+./verify pk.key test.txt sign.txt
